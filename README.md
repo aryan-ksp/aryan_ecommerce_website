@@ -18,19 +18,6 @@ Prerequisites
 A modern web browser (e.g., Chrome, Firefox, Edge)
 Code editor (e.g., VS Code, Sublime Text)
 
-Clone the repository:
-sh
-Copy code
-git clone https://github.com/yourusername/aryan-ecommerce-website.git
-Navigate to the project directory:
-sh
-Copy code
-cd aryan-ecommerce-website
-Open the index.html file in your web browser:
-sh
-Copy code
-open index.html
-
 License
 Copyright @2024 Aryan Kashyap
 Contact
